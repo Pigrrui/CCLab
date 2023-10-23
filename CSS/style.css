@@ -1,0 +1,31 @@
+h1{
+    color: #9932CC;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:50px;
+    font-style:italic;
+    font-weight: bold;
+    text-align:center;
+
+}
+
+#myTitle{
+    color:blue
+}
+
+
+
+h6{
+    color:red;
+    font-family:"Times New Roman,Times,serif";
+    font-size:38px;
+    text-align: center;
+
+
+}
+
+p{
+    color:rgb(100,100,200);
+    font-family:"Young Serif,serif"
+    font-size：38px;
+}
